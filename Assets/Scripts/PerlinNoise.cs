@@ -26,7 +26,7 @@ public class PerlinNoise : MonoBehaviour
     private float _timer;
     
     /// <summary>
-    /// Position in World space of game object to apply Perlin noise.
+    /// Position in world space of game object to apply Perlin noise.
     /// </summary>
     private Vector3 _position;
 
